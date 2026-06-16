@@ -73,4 +73,4 @@ btn.pack()
 
 root.mainloop()
 
-print("I am learning git")
+print("Git is awesome.")
