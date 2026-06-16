@@ -72,3 +72,5 @@ btn = tk.Button(root, text="Predict", command=predict)
 btn.pack()
 
 root.mainloop()
+
+print("I am learning git")
