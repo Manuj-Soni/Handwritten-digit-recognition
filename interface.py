@@ -72,5 +72,3 @@ btn = tk.Button(root, text="Predict", command=predict)
 btn.pack()
 
 root.mainloop()
-
-print("Git is awesome.")
