@@ -39,7 +39,7 @@ HOW TO RUN:-
 2. Install dependencies:
      pip install -r requirements.text
 3. Run interface:
-     nterface.py
+     interface.py
 
 
 MODEL PERFORMANCE:-
